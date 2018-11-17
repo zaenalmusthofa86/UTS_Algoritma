@@ -1,6 +1,8 @@
 # UTS_Algoritma
-SOAL 1
 
+
+# SOAL 1 (Program Menentukan Nilai Dengan Perulangan While)
+```
 -Mendeklrasikan variable int a,b,x,y sebagai variable input
 -Menentukan nilai x dan y dengan memasukkan nilai a dan b (x=a dan y=b)
 -Hitung nilai pada x dan y pada program while(x!=y)
@@ -12,8 +14,8 @@ SOAL 1
             {y=y+b;}
        }
 -Cetak nilai X
-
 -Berikut kode lengkapnya:
+
 #include <iostream>
 
 using namespace std;
@@ -42,7 +44,7 @@ int main()
 
     return 0;
 }
-
+```
 
 Berikut hasil screenshootnya:
 1.Soal 1.1:
@@ -53,8 +55,8 @@ Berikut hasil screenshootnya:
 
 ![img](https://github.com/zaenalmusthofa86/UTS_Algoritma/blob/master/Soal1.2.png)
 
-SOAL 2
-
+# SOAL 2 (Program Menentukan Nilai Dengan Memasukkan 2 Huruf NIM Anda)
+```
 -Mendeklrasikan variable int N,X,T dan Batas
 -Menentukan nilai N sesuai 2 digit no terakhir dari NIM anda
 -Menginput cout << "Masukkan NIM anda :";
@@ -68,7 +70,6 @@ SOAL 2
         X=X+10;
     }
 -Cetak nilai T
-
 -Berikut kode lengkapnya:
 #include <iostream>
 
@@ -91,6 +92,7 @@ int main()
 
     return 0;
 }
+```
 -Berikut screenshotnya:
 
 ![img](https://github.com/zaenalmusthofa86/UTS_Algoritma/blob/master/Soal2.png)
