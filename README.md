@@ -47,6 +47,7 @@ int main()
 ```
 
 Berikut hasil screenshootnya:
+
 1.Soal 1.1:
 
 ![img](https://github.com/zaenalmusthofa86/UTS_Algoritma/blob/master/Soal1.1.png)
